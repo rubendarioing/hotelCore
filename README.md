@@ -1,0 +1,2 @@
+# hotelCore
+WebApiHotel
